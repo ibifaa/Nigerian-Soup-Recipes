@@ -1,4 +1,4 @@
-const Create = () => {
+const CreateRecipe = () => {
   return (
     <div className="page create">
       <h2>Create</h2>
@@ -6,4 +6,4 @@ const Create = () => {
   )
 }
 
-export default Create
+export default CreateRecipe

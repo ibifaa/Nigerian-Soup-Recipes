@@ -1,4 +1,4 @@
-const Update = () => {
+const UpdateRecipe = () => {
   return (
     <div className="page update">
       <h2>Update</h2>
@@ -6,4 +6,4 @@ const Update = () => {
   )
 }
 
-export default Update
+export default UpdateRecipe
