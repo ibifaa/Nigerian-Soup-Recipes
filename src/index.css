@@ -8,7 +8,7 @@
   --primary: #12bca2;
   --secondary: #6d15df;
 }
-h1,h2,h3 {
+/* h1,h2,h3 {
   margin: 0;
 }
 
@@ -35,4 +35,4 @@ nav h1 {
   max-width: 1200px;
   margin: 20px auto;
   padding: 20px;
-}
+} */
